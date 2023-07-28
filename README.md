@@ -1,6 +1,6 @@
 # Minesweeper-game-in-Hebrew
 This code is a Minesweeper game implemented in Python with Tkinter. It offers different levels and a custom option to set grid size and bomb count. Players reveal buttons, avoiding bombs. Adjacent buttons show the number of nearby bombs. Right-clicking marks potential bombs. The code manages game logic, GUI, and random bomb placement. 
-# Minesweeper Game
+## Minesweeper Game
 
 This is a single player Minesweeper game implemented in Python with Tkinter.
 
